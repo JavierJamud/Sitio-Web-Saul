@@ -1,0 +1,56 @@
+[
+    {
+        "id": "producto-01",
+        "titulo": "Pulsera de Protección con 7 Nudos y Ojo Turco",
+        "descripcion": "Diseñada para ofrecer seguridad y alejar la mala energía, combinando la sabiduría ancestral de los nudos protectores con el poder del Ojo Turco para la vigilancia espiritual.",
+        "imagen": "./img/proteccion/pulsera-7-nudos-ojo-turco.png",
+        "categoria": {
+            "nombre": "Protecion Espiritual",
+            "id": "proteccion"
+        },
+        "precio": 9.99
+    },
+    {
+        "id": "producto-02",
+        "titulo": "Guardián Verde: Paquete de Velas para Protección",
+        "descripcion": "Descubre la protección del 'Guardián Verde' un conjunto de velas que aportan calma y seguridad, envolviendo tu entorno en una atmósfera serena y resguardada.",
+        "imagen": "./img/proteccion/paquete-de-vela-proteccion.png","categoria": {
+            "nombre": "Protecion Espiritual",
+            "id": "proteccion"
+        },
+        "precio": 29.99
+    },
+    {
+        "id": "producto-03",
+        "titulo": "Trío de Energía: Set de Piedras Ojo de Tigre",
+        "descripcion": "Beneficios: El Ojo de Tigre fortalece la confianza, aclara la mente y protege contra energías negativas.",
+        "imagen": "./img/piedras/trio-de-energia-piedras.png",
+        "categoria": {
+            "nombre": "Piedras de Sanación",
+            "id": "piedras"
+        },
+        "precio": 19.99
+    },
+    {
+        "id": "producto-04",
+        "titulo": "Kit de Sanación: 5 Piedras Poderosas",
+        "descripcion": "Beneficios: Descubre Fluorita, Aventurina, Turmalina y Cuarzo Transparente para claridad mental, equilibrio emocional, creatividad y estabilidad.",
+        "imagen": "./img/piedras/kit-sensacion.png",
+        "categoria": {
+            "nombre": "Piedras de Sanación",
+            "id": "piedras"
+        },
+        "precio": 29.99
+    },
+    {
+        "id": "producto-05",
+        "titulo": "Kit de 5 Piedras Psíquicas Armonía Interior",
+        "descripcion": "Beneficios: Amatista, Piedra Lunar, Ojo de Tigre, Cuarzo Transparente y Unakita, ideales para potenciar la intuición, protección energética, y el equilibrio emocional y espiritual.",
+        "imagen": "./img/piedras/kit-armonia.png",
+        "categoria": {
+            "nombre": "Piedras de Sanación",
+            "id": "piedras"
+        },
+        "precio": 29.99
+    }
+]
